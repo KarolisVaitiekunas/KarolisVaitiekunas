@@ -1,4 +1,4 @@
-Hello! My name is Karolis Vaitiekūnas. I am a student learning website development.
+Hello! My name is Karolis Vaitiekūnas. I am a student learning website development. <br>
 Currently im learning GraphQl and integrating typescript to things I already know.
 
 <!---
