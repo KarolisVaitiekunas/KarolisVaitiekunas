@@ -1,5 +1,4 @@
-Hello! My name is Karolis Vaitiekūnas. I am a student learning website development. <br>
-Currently im learning GraphQl and integrating typescript to things I already know.
+Hello! My name is Karolis Vaitiekūnas. I am interested in web development <br>
 
 <!---
 KarolisVaitiekunas/KarolisVaitiekunas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
